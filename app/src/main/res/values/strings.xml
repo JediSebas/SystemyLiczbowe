@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Systemy liczbowe</string>
+    <string name="title_home">Start</string>
+    <string name="title_dashboard">Główne</string>
+    <string name="title_notifications">Dwójkowe</string>
+    <string name="button">oblicz</string>
+    <string name="bin">wartość binarna np. 1111</string>
+    <string name="zm">wartość znak-modół np. 01111</string>
+    <string name="uo">wartość zapis uzupełnień do 1 np. 10000</string>
+    <string name="ut">wartość zapis uzupełnień do 2 np. 10001</string>
+    <string name="dec">wartość decymalna np. 15</string>
+    <string name="oct">wartość oktalna np. 17</string>
+    <string name="hex">wartość hexadecymalna np. F</string>
+</resources>
